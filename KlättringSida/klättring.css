@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    font-family: 'Jockey One';
 }
 header{
     max-height: 178px;
@@ -52,8 +53,7 @@ h3{
 }
 #sidebar>h1{
     margin-bottom: 0px;
-    margin-top: 20px;
-}
+    margin-top: 9px;}
 #sidebarlow{
     text-align:left;
     border: #999999 0.5px solid;
