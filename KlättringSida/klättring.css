@@ -73,6 +73,7 @@ h2, h3{
 #sidebarlow>h3{
     margin-top: 0px;
     margin-bottom: 5px;
+    margin-left: 2px;
 }
 #sidebarlow>h3:hover{
     text-shadow: 0 0 1px #000000;
