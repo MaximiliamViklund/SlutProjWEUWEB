@@ -2,6 +2,10 @@ body{
     margin: 0px;
     font-family: 'Jockey One';
 }
+a{
+    text-decoration: none;
+    color: #000000;
+}
 header{
     max-height: 178px;
     min-width: 100%;
